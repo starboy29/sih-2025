@@ -1,0 +1,16 @@
+
+---
+
+# 📜 .gitignore
+```gitignore
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+venv/
+
+# Data/Logs
+*.log
+*.sqlite
